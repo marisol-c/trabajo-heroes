@@ -1,0 +1,24 @@
+{
+  "name": "trabajo-heroes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "init": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marisol-c/trabajo-heroes.git"
+  },
+  "author": "yo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marisol-c/trabajo-heroes/issues"
+  },
+  "homepage": "https://github.com/marisol-c/trabajo-heroes#readme"
+}
